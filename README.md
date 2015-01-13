@@ -24,7 +24,7 @@ Compiling
 
 libckrgb is written in C and only depends on [libusb-1.0](http://www.libusb.org/).
 
-When building, you must add the preprocessor define CKRGB_BUILD. If you're building a staticly-linked library, you must also add CKRGB_STATIC to the define list.
+When building, you must add the preprocessor define `CKRGB_BUILD`. If you're building a staticly-linked library, you must also add `CKRGB_STATIC` to the define list.
 
 Credits
 -------

@@ -1,5 +1,5 @@
-libckrgb
-========
+libckrgb 0.1 alpha
+==================
 
 Script your Corsair keyboard's RGB lights just the way you want them.
 libckrgb is an open, free, and cross-platform C library that only depends on the [libusb](http://www.libusb.org/) library.

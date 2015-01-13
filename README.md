@@ -29,4 +29,6 @@ When building, you must add the preprocessor define `CKRGB_BUILD`. If you're bui
 Credits
 -------
 
+Written in C by Nathan Cousins.
+
 Many thanks to [/u/CalcProgrammer1](http://www.reddit.com/user/CalcProgrammer1/) for reverse engineering the lighting protocol and to [LibCorsairRGB by Palmr](http://github.com/Palmr/LibCorsairRGB).

@@ -21,9 +21,9 @@ Enable `CKRGB_BUILD_STATIC_LIB` under CMake if you wish to build libckrgb as a s
 Including in your project
 -------------------------
 
-Simply include the `include` directory for libckrgb and link the linkable library into your project. Then, you may include the header in your project like so: `#include <ckrgb/libckrgb.h>`
+Simply include the `include` directory for libckrgb and link the linkable library into your project. Then, you may include the header in your project like so: `#include <libckrgb.h>`
 
-Alternatively, if you're using C++: `#include <ckrgb/libckrgb.hpp>`
+Alternatively, if you're using C++: `#include <libckrgb.hpp>`
 
 and you're done!
 

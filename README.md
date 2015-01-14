@@ -1,5 +1,6 @@
 libckrgb 0.1 alpha
 ==================
+Corsair RGB Keyboard Library for C
 
 ![](https://raw.githubusercontent.com/ief015/libckrgb/master/rainbow_k95.jpg)
 
